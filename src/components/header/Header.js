@@ -86,7 +86,7 @@ function Header(props) {
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ borderRadius: 5, color: theme.text }}
               >
-                Home
+               MMO Home
               </NavLink>
             </li>
             <li>
